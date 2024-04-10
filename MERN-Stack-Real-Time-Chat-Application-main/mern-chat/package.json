@@ -1,0 +1,27 @@
+{
+  "name": "mern-chat",
+  "version": "1.0.0",
+  "description": "This app provides a platform for users to engage in conversations with friends and colleagues.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sneha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneha-srinivas29/Chat-interface.git"
+  },
+  "keywords": [
+    "MERN",
+    "Stack",
+    "Real-Time",
+    "Chat",
+    "Application"
+  ],
+  "bugs": {
+    "url": "https://github.com/sneha-srinivas29/Chat-interface/issues"
+  },
+  "homepage": "https://github.com/sneha-srinivas29/Chat-interface#readme"
+}
